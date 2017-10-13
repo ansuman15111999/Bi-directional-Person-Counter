@@ -1,3 +1,5 @@
+// This code is without the using Sevseg.h library counts to number of people
+
 
  int sensA=0;
 
